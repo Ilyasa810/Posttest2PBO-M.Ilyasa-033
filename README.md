@@ -1,16 +1,16 @@
-**# POST TEST 1 PRAKTIKUM PBO**
+# POST TEST 1 PRAKTIKUM PBO
 
-**## NAMA: MUHAMMAD ILYASA' 'IZZUDDIN**
+## NAMA: MUHAMMAD ILYASA' 'IZZUDDIN
 
-**## NIM: 24091166033**
+## NIM: 24091166033
 
-**### TEMA: DAFTAR GAME FAVORIT**
+### TEMA: DAFTAR GAME FAVORIT
 
 
-**### Deskripsi Singkat:**
+### Deskripsi Singkat:
 Tema ini tentang bagaimana memanajemen sebuah daftar game favorit, mulai dari create, read, update, delete sesuai keinginan kita. kita bisa menambahkan game favorit, menghapus game favorit yang ada di list, memperbarui game favorit, atau bahkan hanya mengecek game favorit yang ada dilist.
 
-**### Alur Program Secara singkat:**
+### Alur Program Secara singkat:
 
 1. Program dimulai atau di_run_.
 
@@ -179,3 +179,48 @@ Tema ini tentang bagaimana memanajemen sebuah daftar game favorit, mulai dari cr
 > 1. Menutup program.
 
 ===========================================================================
+
+### Output
+
+**1. Menampilkan pilihan dari program** 
+
+<img width="700" height="400" alt="{43CE24B8-A644-4A48-B684-98C1E7EF923D}" src="https://github.com/user-attachments/assets/62cda6f5-04f5-4ea0-a2ff-2fa8a562cfe9" />
+
+Saat memulai program, user akan diminta 5 opsi yang ingin dilakukan yaitu Menambah game, Melihat daftar game, Mengubah atau memperbarui game di daftar game yang sudah ada sebelumnya, Menghapus game yang ada di daftar game, dan keluar.
+
+
+**2. Memilih opsi Tambah game**
+
+<img width="700" height="453" alt="{8E5AA952-D0AD-41B2-B804-2DAB283E62DD}" src="https://github.com/user-attachments/assets/2b7f66ba-7f92-4ff8-bc86-d6de60c7e1fa" />
+
+Jika user memilih nomor 1 yaitu tambah game, maka program akan meminta user untuk memasukkan nama game, genre game, dan tahun rilis game.
+
+
+**2. Memilih opsi Lihat Daftar Game**
+
+<img width="700" height="412" alt="{1C1DD984-72CF-47BD-A1D2-29275AEB67EC}" src="https://github.com/user-attachments/assets/f8444271-d82b-4225-a4a2-bf5ca8dd88e3" />
+
+Jika user memilih nomor 2 yaitu melihat daftar game, maka program akan menampilkan daftar game yang telah dimasukkan sebelumnya.
+
+
+**3. Memilih opsi Ubah Game**
+
+<img width="700" height="452" alt="{AD326ECB-D9B3-4FA3-BCEC-1A9BD53CECF8}" src="https://github.com/user-attachments/assets/7120c7db-db4a-4c9a-aec9-89efcc939bc4" />
+
+Jika user memilih nomor 3 yaitu mengubah game di daftar game, maka program akan meminta user untuk memilih nomor urut dari game yang ingin diubah kemudian user diminta untuk memasukkan nama game, genre game, dan tahun rilis game.
+
+
+**4. Memilih Hapus Game**
+
+<img width="700" height="443" alt="{80A42BD8-D9BD-4684-B84E-D0C9709D7CEA}" src="https://github.com/user-attachments/assets/28b6c3a8-9886-4c65-a460-215848fa8c8e" />
+
+Jika user memilih nomor 4 yaitu menghapus game, maka program akan meminta user untuk memilih nomor urut dari game yang ingin dihapus.
+
+
+**5. Memilih Keluar**
+
+<img width="700" height="412" alt="{4F096320-5951-40B9-B32E-F01BDB00951D}" src="https://github.com/user-attachments/assets/94fa4320-a311-49c2-bb88-35238960e677" />
+
+Jika user memilih nomor 5 yaitu keluar, maka program akan langsung menyelesaikan program.
+
+============================================================================================================================================================
